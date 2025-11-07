@@ -1,9 +1,0 @@
-ProductName,Price,StockQuantity,CategoryName
-"T-Shirt Casual",20.00,300,Apparel
-"Novel: The Great SQL",25.00,120,Books
-"SQL Handbook",45.50,200,Books
-"Laptop Pro",1200.00,50,Electronics
-"Smart Speaker",99.99,150,Electronics
-"Wireless Earbuds",150.00,100,Electronics
-"Blender X",120.00,60,"Home Goods"
-"Coffee Maker",75.00,80,"Home Goods"
